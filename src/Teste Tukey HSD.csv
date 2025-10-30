@@ -1,0 +1,121 @@
+mês,group1,group2,p-adj,reject
+Jan,Agreste Pernambucano,Mata Pernambucana,0.0706,False
+Jan,Agreste Pernambucano,Metropolitana do Recife,0.3636,False
+Jan,Agreste Pernambucano,Sertão Pernambucano,0.0,True
+Jan,Agreste Pernambucano,São Francisco Pernambucano,0.0,True
+Jan,Mata Pernambucana,Metropolitana do Recife,1.0,False
+Jan,Mata Pernambucana,Sertão Pernambucano,0.0,True
+Jan,Mata Pernambucana,São Francisco Pernambucano,0.0,True
+Jan,Metropolitana do Recife,Sertão Pernambucano,0.0,True
+Jan,Metropolitana do Recife,São Francisco Pernambucano,0.0,True
+Jan,Sertão Pernambucano,São Francisco Pernambucano,0.0009,True
+Fev,Agreste Pernambucano,Mata Pernambucana,0.0357,True
+Fev,Agreste Pernambucano,Metropolitana do Recife,0.0001,True
+Fev,Agreste Pernambucano,Sertão Pernambucano,0.0,True
+Fev,Agreste Pernambucano,São Francisco Pernambucano,0.0,True
+Fev,Mata Pernambucana,Metropolitana do Recife,0.0984,False
+Fev,Mata Pernambucana,Sertão Pernambucano,0.0,True
+Fev,Mata Pernambucana,São Francisco Pernambucano,0.0,True
+Fev,Metropolitana do Recife,Sertão Pernambucano,0.0,True
+Fev,Metropolitana do Recife,São Francisco Pernambucano,0.0,True
+Fev,Sertão Pernambucano,São Francisco Pernambucano,0.0001,True
+Mar,Agreste Pernambucano,Mata Pernambucana,0.0004,True
+Mar,Agreste Pernambucano,Metropolitana do Recife,0.0,True
+Mar,Agreste Pernambucano,Sertão Pernambucano,0.0,True
+Mar,Agreste Pernambucano,São Francisco Pernambucano,0.0,True
+Mar,Mata Pernambucana,Metropolitana do Recife,0.0,True
+Mar,Mata Pernambucana,Sertão Pernambucano,0.0,True
+Mar,Mata Pernambucana,São Francisco Pernambucano,0.0,True
+Mar,Metropolitana do Recife,Sertão Pernambucano,0.0,True
+Mar,Metropolitana do Recife,São Francisco Pernambucano,0.0,True
+Mar,Sertão Pernambucano,São Francisco Pernambucano,0.0078,True
+Abr,Agreste Pernambucano,Mata Pernambucana,0.0157,True
+Abr,Agreste Pernambucano,Metropolitana do Recife,0.0,True
+Abr,Agreste Pernambucano,Sertão Pernambucano,0.2498,False
+Abr,Agreste Pernambucano,São Francisco Pernambucano,0.0045,True
+Abr,Mata Pernambucana,Metropolitana do Recife,0.0,True
+Abr,Mata Pernambucana,Sertão Pernambucano,0.0,True
+Abr,Mata Pernambucana,São Francisco Pernambucano,0.0,True
+Abr,Metropolitana do Recife,Sertão Pernambucano,0.0,True
+Abr,Metropolitana do Recife,São Francisco Pernambucano,0.0,True
+Abr,Sertão Pernambucano,São Francisco Pernambucano,0.286,False
+Mai,Agreste Pernambucano,Mata Pernambucana,0.5637,False
+Mai,Agreste Pernambucano,Metropolitana do Recife,0.0054,True
+Mai,Agreste Pernambucano,Sertão Pernambucano,0.0,True
+Mai,Agreste Pernambucano,São Francisco Pernambucano,0.0,True
+Mai,Mata Pernambucana,Metropolitana do Recife,0.1477,False
+Mai,Mata Pernambucana,Sertão Pernambucano,0.0,True
+Mai,Mata Pernambucana,São Francisco Pernambucano,0.0,True
+Mai,Metropolitana do Recife,Sertão Pernambucano,0.0,True
+Mai,Metropolitana do Recife,São Francisco Pernambucano,0.0,True
+Mai,Sertão Pernambucano,São Francisco Pernambucano,0.0,True
+Jun,Agreste Pernambucano,Mata Pernambucana,0.9338,False
+Jun,Agreste Pernambucano,Metropolitana do Recife,0.0,True
+Jun,Agreste Pernambucano,Sertão Pernambucano,0.0,True
+Jun,Agreste Pernambucano,São Francisco Pernambucano,0.0,True
+Jun,Mata Pernambucana,Metropolitana do Recife,0.0003,True
+Jun,Mata Pernambucana,Sertão Pernambucano,0.0,True
+Jun,Mata Pernambucana,São Francisco Pernambucano,0.0,True
+Jun,Metropolitana do Recife,Sertão Pernambucano,0.0,True
+Jun,Metropolitana do Recife,São Francisco Pernambucano,0.0,True
+Jun,Sertão Pernambucano,São Francisco Pernambucano,0.0,True
+Jul,Agreste Pernambucano,Mata Pernambucana,0.6705,False
+Jul,Agreste Pernambucano,Metropolitana do Recife,0.0,True
+Jul,Agreste Pernambucano,Sertão Pernambucano,0.0,True
+Jul,Agreste Pernambucano,São Francisco Pernambucano,0.0,True
+Jul,Mata Pernambucana,Metropolitana do Recife,0.0011,True
+Jul,Mata Pernambucana,Sertão Pernambucano,0.0,True
+Jul,Mata Pernambucana,São Francisco Pernambucano,0.0,True
+Jul,Metropolitana do Recife,Sertão Pernambucano,0.0,True
+Jul,Metropolitana do Recife,São Francisco Pernambucano,0.0,True
+Jul,Sertão Pernambucano,São Francisco Pernambucano,0.0,True
+Ago,Agreste Pernambucano,Mata Pernambucana,0.8423,False
+Ago,Agreste Pernambucano,Metropolitana do Recife,0.0002,True
+Ago,Agreste Pernambucano,Sertão Pernambucano,0.0,True
+Ago,Agreste Pernambucano,São Francisco Pernambucano,0.0,True
+Ago,Mata Pernambucana,Metropolitana do Recife,0.0069,True
+Ago,Mata Pernambucana,Sertão Pernambucano,0.0,True
+Ago,Mata Pernambucana,São Francisco Pernambucano,0.0,True
+Ago,Metropolitana do Recife,Sertão Pernambucano,0.0,True
+Ago,Metropolitana do Recife,São Francisco Pernambucano,0.0,True
+Ago,Sertão Pernambucano,São Francisco Pernambucano,0.0002,True
+Set,Agreste Pernambucano,Mata Pernambucana,0.9685,False
+Set,Agreste Pernambucano,Metropolitana do Recife,0.7183,False
+Set,Agreste Pernambucano,Sertão Pernambucano,0.0,True
+Set,Agreste Pernambucano,São Francisco Pernambucano,0.0,True
+Set,Mata Pernambucana,Metropolitana do Recife,0.4957,False
+Set,Mata Pernambucana,Sertão Pernambucano,0.0,True
+Set,Mata Pernambucana,São Francisco Pernambucano,0.0,True
+Set,Metropolitana do Recife,Sertão Pernambucano,0.0,True
+Set,Metropolitana do Recife,São Francisco Pernambucano,0.0,True
+Set,Sertão Pernambucano,São Francisco Pernambucano,0.2222,False
+Out,Agreste Pernambucano,Mata Pernambucana,0.8559,False
+Out,Agreste Pernambucano,Metropolitana do Recife,0.2501,False
+Out,Agreste Pernambucano,Sertão Pernambucano,0.0,True
+Out,Agreste Pernambucano,São Francisco Pernambucano,0.0029,True
+Out,Mata Pernambucana,Metropolitana do Recife,0.7018,False
+Out,Mata Pernambucana,Sertão Pernambucano,0.0,True
+Out,Mata Pernambucana,São Francisco Pernambucano,0.0005,True
+Out,Metropolitana do Recife,Sertão Pernambucano,0.0,True
+Out,Metropolitana do Recife,São Francisco Pernambucano,0.0001,True
+Out,Sertão Pernambucano,São Francisco Pernambucano,0.9978,False
+Nov,Agreste Pernambucano,Mata Pernambucana,0.932,False
+Nov,Agreste Pernambucano,Metropolitana do Recife,0.0,True
+Nov,Agreste Pernambucano,Sertão Pernambucano,0.0,True
+Nov,Agreste Pernambucano,São Francisco Pernambucano,0.0,True
+Nov,Mata Pernambucana,Metropolitana do Recife,0.0,True
+Nov,Mata Pernambucana,Sertão Pernambucano,0.0,True
+Nov,Mata Pernambucana,São Francisco Pernambucano,0.0,True
+Nov,Metropolitana do Recife,Sertão Pernambucano,0.0,True
+Nov,Metropolitana do Recife,São Francisco Pernambucano,0.0,True
+Nov,Sertão Pernambucano,São Francisco Pernambucano,0.2798,False
+Dez,Agreste Pernambucano,Mata Pernambucana,0.692,False
+Dez,Agreste Pernambucano,Metropolitana do Recife,0.9674,False
+Dez,Agreste Pernambucano,Sertão Pernambucano,0.0,True
+Dez,Agreste Pernambucano,São Francisco Pernambucano,0.0,True
+Dez,Mata Pernambucana,Metropolitana do Recife,0.5958,False
+Dez,Mata Pernambucana,Sertão Pernambucano,0.0,True
+Dez,Mata Pernambucana,São Francisco Pernambucano,0.0,True
+Dez,Metropolitana do Recife,Sertão Pernambucano,0.0,True
+Dez,Metropolitana do Recife,São Francisco Pernambucano,0.0,True
+Dez,Sertão Pernambucano,São Francisco Pernambucano,0.0005,True
